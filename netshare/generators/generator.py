@@ -241,3 +241,4 @@ class Generator(object):
         my_report.generate(real_data[synthetic_data.columns], synthetic_data,
                            sdmetrics_config['metadata'])
         my_report.visualize()
+        my_report.fig2png(os.path.join(work_folder, 'result_img'))

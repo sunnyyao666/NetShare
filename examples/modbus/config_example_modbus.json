@@ -1,6 +1,6 @@
 {
     "global_config": {
-        "original_data_file": "../../traces/mitm/mitm.csv",
+        "original_data_file": "../../traces/modbus/modbus.csv",
         "overwrite": true,
         "dataset_type": "pcap",
         "n_chunks": 1,
