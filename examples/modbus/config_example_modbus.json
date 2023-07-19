@@ -74,7 +74,7 @@
                 10
             ],
             "sample_len_expand": true,
-            "epochs": 40,
+            "epochs": 5,
             "extra_checkpoint_freq": 1,
             "epoch_checkpoint_freq": 5
         }
